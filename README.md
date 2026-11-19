@@ -14,11 +14,5 @@ dotnet build OpenPiano.sln -c Release -p:Platform=x64
 ```
 Or open `OpenPiano.sln` in Visual Studio and press F5.
 
-## Roadmap
-- [ ] Real piano samples (freely licensed, license noted in `ASSETS.md`)
-- [ ] Sustain pedal, velocity, full 88 keys with scrolling
-- [ ] Computer-keyboard and MIDI input
-- [ ] Microsoft Store release
-
 ## License
 Code: MIT (see `LICENSE`). Audio samples and artwork carry their own licenses, listed in `ASSETS.md`.
